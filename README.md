@@ -4,4 +4,4 @@
 2. I've been working as a QA Engineer at Belkasoft for over a year
 3. In my free time I play sports, study languages and read books 
 4. Planning to move to another country
-![Alt text](images\Photo.png?raw=true "Title")
+![Photo](https://github.com/christinakru/_about-me_/blob/main/images/Photo.png)
